@@ -1,0 +1,69 @@
+{
+    "AçãoAoCanalDeletado": {
+        "QuantidadeAção": 2
+    },
+    "AçãoAoBanir": {
+        "QuantidadeAção": 2
+    },
+    "AçãoAoExpulsar": {
+        "QuantidadeAção": 2
+    },
+    "AçãoAoEmojiDeletado": {
+        "QuantidadeAção": 2
+    },
+    "AçãoAoCargoDeletado": {
+        "QuantidadeAção": 2
+    },
+
+    "TempoAoCanalDeletado": {
+        "Tempo": "1m"
+    },
+    "TempoAoBanir": {
+        "Tempo": "1m"
+    },
+    "TempoAoExpulsar": {
+        "Tempo": "1m"
+    },
+    "TempoAoEmojiDeletado": {
+        "Tempo": "1m"
+    },
+    "TempoAoCargoDeletado": {
+        "Tempo": "1m"
+    },
+
+    "PuniçãoAoCanalDeletado": {
+        "Punição": "cargos"
+    },
+    "PuniçãoAoBanir": {
+        "Punição": "cargos"
+    },
+    "PuniçãoAoExpulsar": {
+        "Punição": "expulsar"
+    },
+    "PuniçãoAoEmojiDeletado": {
+        "Punição": "ban"
+    },
+    "PuniçãoAoCargoDeletado": {
+        "Punição": "cargo"
+    },
+
+    "CanalAoCanalDeletado": {
+        "CanalLog": ""
+    },
+    "CanalAoBanir": {
+        "CanalLog": ""
+    },
+    "CanalAoExpulsar": {
+        "CanalLog": ""
+    },
+    "CanalAoEmojiDeletado": {
+        "CanalLog": ""
+    },
+    "CanalAoCargoDeletado": {
+        "CanalLog": ""
+    },
+
+    "Logar": {
+        "Token": ""
+    }
+}
